@@ -2,11 +2,11 @@
 
 //Menu de navegacion
 // Se registran los menus de navegacion del tema, si quieres agregar mas menus
+
 function gymmalilla_menus() {
     register_nav_menus(array(
         'menu-principal' => __('Menu Principal', 'gymmalilla'),
         'menu-footer' => __('Menu Footer', 'gymmalilla'),
-
     ));   
 }
 

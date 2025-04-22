@@ -4,3 +4,28 @@
 [07-Apr-2025 17:27:10 UTC] PHP Fatal error:  Failed opening required 'F:/Local/resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
 [14-Apr-2025 19:42:48 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page.php on line 9
 [15-Apr-2025 19:21:13 UTC] PHP Parse error:  syntax error, unexpected token "endwhile", expecting end of file in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page.php on line 10
+[22-Apr-2025 17:41:24 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[22-Apr-2025 17:41:24 UTC] PHP Fatal error:  Failed opening required 'C:/Users/mnavarrete/AppData/Local/Programs/Local/resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[22-Apr-2025 17:41:25 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[22-Apr-2025 17:41:25 UTC] PHP Fatal error:  Failed opening required 'C:/Users/mnavarrete/AppData/Local/Programs/Local/resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[22-Apr-2025 18:22:19 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 15
+[22-Apr-2025 19:09:08 UTC] PHP Warning:  Undefined variable $handle in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:08 UTC] PHP Warning:  Undefined variable $src in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:08 UTC] PHP Warning:  Undefined variable $deps in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:08 UTC] PHP Warning:  Undefined variable $ver in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:08 UTC] PHP Warning:  Undefined variable $media in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:47 UTC] PHP Warning:  Undefined variable $handle in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:47 UTC] PHP Warning:  Undefined variable $src in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:47 UTC] PHP Warning:  Undefined variable $deps in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:47 UTC] PHP Warning:  Undefined variable $ver in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:47 UTC] PHP Warning:  Undefined variable $media in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:57 UTC] PHP Warning:  Undefined variable $handle in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:57 UTC] PHP Warning:  Undefined variable $src in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:57 UTC] PHP Warning:  Undefined variable $deps in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:57 UTC] PHP Warning:  Undefined variable $ver in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:09:57 UTC] PHP Warning:  Undefined variable $media in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 21
+[22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $handle in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
+[22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $src in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
+[22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $deps in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
+[22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $ver in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
+[22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $media in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
