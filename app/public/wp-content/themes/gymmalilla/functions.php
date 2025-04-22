@@ -12,9 +12,13 @@ function gymmalilla_menus() {
 
 add_action('init', 'gymmalilla_menus');
 
+
 //Scripts y estilos
 function gymmalilla_scripts_styles() {
+
+   wp_enqueue_style('normalize', get_template_directory_uri() . '/css/normalize.css' , array(), '8.0.1');
+   
     //la hoja de estilos principal
-   wp_enqueue_style($handle, $src, $deps, $ver, $media);
+   wp_enqueue_style('style', get_stylesheet_uri(), array('normalize'), '1.0.0');
 }
 add_action('wp_enqueue_scripts', 'gymmalilla_scripts_styles');
