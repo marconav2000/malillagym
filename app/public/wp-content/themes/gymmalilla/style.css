@@ -13,3 +13,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: gymmalilla
 Tags: gym, gimnasion, fitness, artes marciales, deportes de contacto, mma, flexbox, css grid, mobile-first
 */
+
+:root {
+    /** Fuentes **/
+    --fuentePrincipal: 'Staatliches', sans-serif; 
+    --fuenteTexto: 'Open Sans', sans-serif;
+    --fuenteSecundaria: 'Raleway', sans-serif;
+    
+
+
+    /** Colores **/
+}5
