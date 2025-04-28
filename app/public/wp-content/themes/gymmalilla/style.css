@@ -21,8 +21,9 @@ Tags: gym, gimnasion, fitness, artes marciales, deportes de contacto, mma, flexb
     --fuenteSecundaria : 'Raleway', sans-serif; */
     
 
-    /** Colores **/   ;
-    --colorPrimario1: #FF5B00; /* Color de fondo */
+    /** Colores **/
+    --colorauxiliar : #FF5B00; /* Color de fondo */   
+    --colorPrimario: #FF5B00; /* Color de fondo */
     --colorGrisOscuro : #2F2E2E; /* Color de texto */
     --colorGrisClaro : #EBEBEB; /* Color de acento */
     --colorBlanco : #ffffff; /* Color de fondo de secciones */
@@ -94,3 +95,71 @@ img {
     width: 95%;
     margin: 0 auto;    
 }
+
+
+/** Header **/
+.site-header {
+    background-color: var(--colorGrisOscuro); 
+    padding: 2rem 0;  
+}
+
+@media (min-width: 768px) {
+    .barra-navegacion {
+        display: flex;
+        justify-content: space-between;
+             
+    }
+}
+
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+
+/** Menu Principal **/
+.menu-principal {
+    display: none;
+}
+
+@media (min-width: 768px) {
+    .menu-principal {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+     
+    }
+    .menu-principal .menu {
+        display: flex;
+        justify-content: space-around;
+    }
+    .menu-principal li {
+        margin: 2rem;
+    }
+    .menu-principal li:last-of-type {
+        margin-right: 0;
+    }
+}
+
+.menu-principal a {
+    font-family: var(--fuentePrincipal) ;
+    color: var(--colorBlanco);
+    font-size: 2.2rem;
+    padding: .5rem 1rem;
+}
+
+@media (min-width: 768px) {
+    .menu-principal a {
+       font-size: 2.6rem;
+    }
+}
+
+.menu-principal .current_page_item {
+    border-bottom: 3px solid var(--colorPrimario);
+    
+}
+
+  
+
