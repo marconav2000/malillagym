@@ -153,7 +153,45 @@ img {
 @media (min-width: 768px) {
     .menu-principal a {
        font-size: 2.6rem;
+       position: relative;
+       z-index:1;
     }
+
+    .menu-principal a::before,
+    .menu-principal a::after {
+        position: absolute;
+        left: 0;
+        content: '';
+        display: block;
+        width: 100%;
+        height: 50%;
+        background-color: var(--colorPrimario);
+        z-index: -1;
+        transform: scaleX(0);
+       
+    }
+
+    .menu-principal a::before {
+        top: 0;
+        transform-origin: left;     
+    }
+
+    .menu-principal a::after {
+        top: 50%;
+        
+    
+
+    }
+    
+    .menu-principal a:hover::before {
+        transform: scaleX(1);
+
+    }
+    .menu-principal a:hover::after {
+        transform: scaleX(1);
+
+    } 
+
 }
 
 .menu-principal .current_page_item {
