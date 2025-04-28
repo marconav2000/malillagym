@@ -16,25 +16,81 @@ Tags: gym, gimnasion, fitness, artes marciales, deportes de contacto, mma, flexb
 
 :root {
     /** Fuentes **/
-    --fuentePrincipal: 'Staatliches', sans-serif; 
-    --fuenteTexto: 'Open Sans', sans-serif;
-    --fuenteSecundaria: 'Raleway', sans-serif;
+    --fuentePrincipal : 'Staatliches', sans-serif; 
+    --fuenteTexto : 'Open Sans', sans-serif;
+    --fuenteSecundaria : 'Raleway', sans-serif; */
     
 
-
-    /** Colores **/
-    --colorPrimario: #FF5B00; /* Color de fondo */
-    --colorGrisOscuro: #2F2E2E; /* Color de texto */
-    --colorGrisClaro: #EBEBEB; /* Color de acento */
-    --colorBlanco: #ffffff; /* Color de fondo de secciones */    
-    --colorNegro: #000000; /* Color de fondo de secciones */
-
-
-
+    /** Colores **/   ;
+    --colorPrimario1: #FF5B00; /* Color de fondo */
+    --colorGrisOscuro : #2F2E2E; /* Color de texto */
+    --colorGrisClaro : #EBEBEB; /* Color de acento */
+    --colorBlanco : #ffffff; /* Color de fondo de secciones */
+    --colorNegro : #000000; /* Color de fondo de secciones */
 }
 
 
-h1 {
-    font-family: var(--fuentePrincipal);
-    font-size: 3.5rem;
+/* Estilos generales */
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1rem = 10px */
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-size: 16px; /* px fallback */
+    font-size: 1.6rem; /* default font-size for document */
+    line-height: 2; /* a nice line-height */
+    font-family: var(--fuenteSecundaria);
   }
+
+
+/* Estilos generales */
+
+/** Headings **/
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--fuentePrincipal);
+    margin: 1rem 0;
+    line-height: 1.2;   
+}
+
+h1 {
+   font-size: 6rem;      
+}
+
+h2 {
+    font-size: 4.8rem;
+}
+
+h3 {
+    font-size: 3.6rem;
+}
+
+h4 {
+    font-size: 2.4;
+}
+
+/** Globales **/
+a {
+    text-decoration: none;
+  
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.contenedor {
+    max-width: 1200px;
+    width: 95%;
+    margin: 0 auto;    
+}

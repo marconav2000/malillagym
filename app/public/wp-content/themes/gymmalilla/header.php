@@ -2,16 +2,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <?php wp_head(); ?>
 </head>
 <body>
     
     <header class="site-header">
-        <h1>Site Header y Menu</h1>
         <div class="contenedor">
             <div class="barra-navegacion">
                 <div class="logo">
-                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="">
+                    <img src="<?php echo get_template_directory_uri(); ?>/img/logo.svg" alt="logo_sitio">
                 </div>
 
                 <?php 

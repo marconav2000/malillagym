@@ -29,3 +29,12 @@
 [22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $deps in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
 [22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $ver in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
 [22-Apr-2025 19:10:26 UTC] PHP Warning:  Undefined variable $media in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 18
+[28-Apr-2025 16:36:24 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[28-Apr-2025 16:41:47 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
+[28-Apr-2025 16:41:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[28-Apr-2025 16:41:47 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[28-Apr-2025 16:41:57 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
+[28-Apr-2025 16:42:02 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
+[28-Apr-2025 16:42:06 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
+[28-Apr-2025 16:42:30 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
+[28-Apr-2025 16:42:34 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
