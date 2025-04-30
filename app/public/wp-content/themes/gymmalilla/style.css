@@ -258,12 +258,24 @@ img {
 
 .site-footer .menu-principal .current_page_item {
     border: none;
+    color: var(--colorPrimario);
 }
+
+@media (min-width: 768px) {
+    .site-footer .menu-principal .current_page_item {
+        border-bottom: 3px solid var(--colorPrimario);
+    }
+}
+
 
 .site-footer .menu-principal a::before,
 .site-footer .menu-principal a::after {
-    display: none;    
-}
+    display: none; 
+   }
+
+ .site-footer .menu-principal a:hover {
+   color: var(--colorPrimario);
+} 
 
 .copyright {
     text-align: center;
