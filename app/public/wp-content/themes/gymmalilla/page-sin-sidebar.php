@@ -1,7 +1,7 @@
 <!-- carga contenido de archivo header.php -->
 <?php 
 /*
-* Teplate Name: contenido creadio (Sin Sidebar)
+* Template Name: contenido creadio (Sin Sidebar)
 */
 
 get_header(); ?>
