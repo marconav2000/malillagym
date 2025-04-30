@@ -25,10 +25,9 @@
             <?php endwhile; ?>
                     
         </div>
+        <!-- Carga sidebar -->            
+       <?php get_sidebar(); ?>
 
-        <aside class="sidebar">
-            <h1>Sidebar Aquí</h1>
-        </aside>
     </main>    
 
 

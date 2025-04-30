@@ -1,3 +1,3 @@
 <aside class="sidebar">
-            <h1>Sidebar Aquí</h1>
+            <h1 class="texto-primario tex-center">Sidebar Aquí</h1>
 </aside>
