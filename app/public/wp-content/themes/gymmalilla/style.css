@@ -328,3 +328,12 @@ img {
         flex: 0 0 calc(35% - 2rem);
     }
 }
+
+.no-sidebar {
+    display: flex;
+    justify-content: center;
+}
+
+.no-sidebar .contenido-pagina {
+    flex: 0 1 90%;
+}
