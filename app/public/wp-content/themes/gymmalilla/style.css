@@ -96,7 +96,7 @@ img {
 
 .contenedor {
     max-width: 1200px;
-    width: 95%;
+    width: 90%;
     margin: 0 auto;    
 }
 
@@ -154,7 +154,7 @@ img {
         justify-content: space-around;
     }
     .menu-principal li {
-        margin: 2rem;
+        margin: 1.5rem;
     }
     .menu-principal li:last-of-type {
         margin-right: 0;
@@ -265,13 +265,15 @@ img {
 
 .site-footer .menu-principal {
     display: block;
+    
+   
 }
 
 .site-footer a {
     color: var(--colorNegro);
     text-align: center;
-    font-size: 2.4rem;
-    padding: 0 1rem;
+    font-size: 2.2rem;
+    padding: 0;
 }
 
 .site-footer .menu-principal .current_page_item {
@@ -298,14 +300,14 @@ img {
 .copyright {
     text-align: center;
     font-family: var(--fuenteSecundaria);
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     margin: 2rem;
-    padding-top: 1rem;
+    /* padding-top: 1rem; */
 }
 
 @media (min-width: 768px) {
     .copyright {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 
