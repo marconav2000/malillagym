@@ -13,6 +13,15 @@ function gymmalilla_setup() {
     ));
     // Soporte para el título del tema
     add_theme_support('title-tag');
+
+
+    // Soporte para el tamaño de imagengenes personalizado
+    add_image_size('cuadrada', 350, 350, true); // recorta la imagen a 350x350px
+    add_image_size('regtangular', 350, 724, true); // recorta la imagen a 350x724px
+    add_image_size('cajas', 400, 375, true); // recorta la imagen a 400x375px
+    add_image_size('mediana', 700, 400, true); // recorta la imagen a 700x400px
+    add_image_size('blog', 966, 644, true); // recorta la imagen a 966x644px
+    
 }
 
 add_action('after_setup_theme', 'gymmalilla_setup');

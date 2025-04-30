@@ -1,11 +1,37 @@
+<!-- carga contenido de archivo header.php -->
 <?php get_header(); ?>
 
-<?php while ( have_posts() ) : the_post(); ?>
+    <main class="contenedor pagina seccion con-sidebar">
+        <div class="contenido-principal">
+            <!-- Carga contenido de la pagina a publicar -->
+            <?php while ( have_posts() ) : the_post(); ?>
     
-    <h1><?php the_title(); ?></h1>
+                <!-- Carga titulo  de la pagina a publicar -->
+                <h1 class="text-center texto-primario"><?php the_title(); ?></h1>
+ 
+                <!-- Carga imagen despuesd e titulo -->
+                <?php 
+                    if( has_post_thumbnail() ) :
+                    the_post_thumbnail();
+                        
+                    // else:   
+ 
+                    //     echo '<img src="' . get_template_directory_uri() . '/img/imagen-default.jpg" alt="Imagen por defecto">';
+                    endif;     
+                ?>
+                <!-- Carga cuerpo (contenido) de publicacion  -->
+                <?php the_content(); ?>    
+ 
+            <?php endwhile; ?>
+                    
+        </div>
 
-    <?php the_content(); ?>
+        <aside class="sidebar">
+            <h1>Sidebar Aquí</h1>
+        </aside>
+    </main>    
 
-<?php endwhile; ?>
 
+
+<!-- carga contenido de archivo footert.php -->
 <?php get_footer(); ?>

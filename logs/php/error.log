@@ -40,3 +40,4 @@
 [28-Apr-2025 16:42:34 UTC] PHP Parse error:  syntax error, unexpected identifier "action" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 14
 [29-Apr-2025 19:51:48 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
 [29-Apr-2025 19:52:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
+[30-Apr-2025 17:34:55 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
