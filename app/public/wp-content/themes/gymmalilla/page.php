@@ -12,7 +12,7 @@
                 <!-- Carga imagen despuesd e titulo -->
                 <?php 
                     if( has_post_thumbnail() ) :
-                    the_post_thumbnail();
+                            the_post_thumbnail('blog', array('class' => 'imagen-destacada'));
                         
                     // else:   
  
