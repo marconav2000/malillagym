@@ -5,7 +5,10 @@
         <div class="contenido-principal text-center">
             
             <!-- carga contenido de pagina.php -->
-            <?php get_template_part('template-parts/paginas'); ?>               
+            <?php get_template_part('template-parts/paginas'); ?>   
+            
+            <?php gymmalilla_lista_clases(); ?> 
+          
         </div>   
     </main>    
 

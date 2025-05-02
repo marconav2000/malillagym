@@ -7,6 +7,9 @@
             <!-- carga contenido de pagina.php -->
             <?php get_template_part('template-parts/paginas'); ?>
 
+        
+
+
                     
         </div>
         <!-- Carga sidebar -->            
