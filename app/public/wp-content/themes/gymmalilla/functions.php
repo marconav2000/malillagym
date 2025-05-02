@@ -1,5 +1,13 @@
 <?php 
 
+/** Consultas reutilizables **/
+
+require get_template_directory() . '/inc/queries.php';
+
+
+
+
+
 //Se ejecuta cuando el Tema se habilita
 function gymmalilla_setup() {
     // Habilita imagen destacada
