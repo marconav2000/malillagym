@@ -340,3 +340,51 @@ img {
 .no-sidebar .contenido-pagina {
     flex: 0 1 85%;
 }
+
+/** Clases */
+
+ .lista-clases {
+   margin-top: 4rem;
+}
+
+@media (min-width: 768px) {
+    .lista-clases {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;       
+    }
+}
+
+/** Cards **/
+.card {
+    margin-bottom: 3rem;
+}
+
+@media (min-width: 768px) {
+    .card {
+        flex: 0 0 calc(50% - 2rem);
+        /* display: flex;
+        justify-content: space-between;
+        align-items: center; */
+    }
+}
+
+
+.card img {
+    /* display: block; */
+}
+
+.card .contenido {
+    padding: 3rem 0;
+}
+
+.card .contenido h3 {
+    line-height: 1;
+    color: var(--colorPrimario)
+}
+
+.card .contenido p{
+    font-weight: 700;
+    font-size: 1.7rem;
+    margin: 0;
+}

@@ -17,7 +17,7 @@ function gymmalilla_lista_clases() { ?>
        
                 while ($clases->have_posts()): $clases->the_post(); ?>
                    
-                <li class="clase_card">
+                <li class="clase card">
                     <?php the_post_thumbnail('mediana'); ?>
                     <div class="contenido">
                         <a href="<?php the_permalink(); ?>">
