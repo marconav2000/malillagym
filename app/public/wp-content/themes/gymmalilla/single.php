@@ -1,17 +1,18 @@
 
+<!-- carga contenido de archivo header.php -->
 <?php get_header(); ?>
 
+    <main class="contenedor pagina seccion con-sidebar">
+        <div class="contenido-principal">
+            
+            <!-- carga contenido de pagina.php -->
+            <?php get_template_part('template-parts/paginas'); ?>
+                    
+        </div>
+        <!-- Carga sidebar -->            
+       <?php get_sidebar(); ?>
 
-  <!-- look de pagina -->
-  
-  <!-- Carga contenido de la pagina a publicar -->
-  <?php while ( have_posts() ) : the_post(); ?>
-    
-        <!-- Carga titulo  de la pagina a publicar -->
-        <h1 class="text-center texto-primario"><?php the_title(); ?></h1>
+    </main>    
 
-        <?php the_content(); ?>    
-
-    <?php endwhile; ?>
-
+<!-- carga contenido de archivo footert.php -->
 <?php get_footer(); ?>

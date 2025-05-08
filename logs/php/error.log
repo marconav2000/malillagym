@@ -42,3 +42,26 @@
 [29-Apr-2025 19:52:22 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
 [30-Apr-2025 17:34:55 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-customize-widgets.php on line 923
 [02-May-2025 15:21:55 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\inc\queries.php on line 4
+[08-May-2025 19:40:28 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\template-parts\paginas.php on line 22
+[08-May-2025 20:59:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_acction() in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:94
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(672): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\mnavar...')
+#4 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\mnavar...')
+#5 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 94
+[08-May-2025 20:59:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[08-May-2025 20:59:39 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[08-May-2025 21:03:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_acction() in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:103
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(672): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin.php(34): require_once('C:\\Users\\mnavar...')
+#4 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\edit.php(10): require_once('C:\\Users\\mnavar...')
+#5 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 103
+[08-May-2025 21:15:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\sidebar.php on line 22
+[08-May-2025 21:16:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\sidebar.php on line 22
