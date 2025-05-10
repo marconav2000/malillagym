@@ -13,9 +13,9 @@ Text Domain: malillagym
 if(!defined('ABSPATH')) die();
 
 /**
- * Adds Foo_Widget widget.
+ * Adds malillagym_clases_widget widget.
  */
-class Foo_Widget extends WP_Widget {
+class malillagym_clases_widget extends WP_Widget {
 
 	/**
 	 * Register widget with WordPress.
@@ -23,8 +23,8 @@ class Foo_Widget extends WP_Widget {
 	function __construct() {
 		parent::__construct(
 			'foo_widget', // Base ID
-			esc_html__( 'Widget Title', 'text_domain' ), // Name
-			array( 'description' => esc_html__( 'A Foo Widget', 'text_domain' ), ) // Args
+			esc_html__( 'malillagyn Clases', 'text_domain' ), // Name
+			array( 'description' => esc_html__( 'Agrega las Clases como widget', 'text_domain' ), ) // Args
 		);
 	}
 
@@ -41,8 +41,46 @@ class Foo_Widget extends WP_Widget {
 		if ( ! empty( $instance['title'] ) ) {
 			echo $args['before_title'] . apply_filters( 'widget_title', $instance['title'] ) . $args['after_title'];
 		}
-		echo esc_html__( 'Hello, World!', 'text_domain' );
-		echo $args['after_widget'];
+		
+        ?>
+
+        <ul>
+            <?php
+                $args = array(
+                    'post_type' => 'malillagym_clases',
+                    'posts_per_page' => 3,
+                    'orderby' => 'date',
+                    'order' => 'DESC'
+                );
+            $clases = new WP_Query($args);
+            
+                while($clases->have_posts()): $clases->the_post();
+                 ?>
+                <li class="clse-sidebar">
+                    <div class="imagen">
+                        <?php the_post_thumbnail('thumbnail'); ?>
+                    </div>
+
+                    <div class="contenido-clase">
+                        <a href="<?php the_permalink(); ?>">
+                            <h3><?php the_title(); ?></h3>
+                        </a>
+                        <?php 
+                            $hora_inicio = get_field('hora_inicio');
+                            $hora_fin = get_field('hora_fin');
+                       
+                        ?>
+                        <p><?php the_field('dias_de_clases'); ?> - <?php echo $hora_inicio . " a " . $hora_fin; ?></p>
+
+                    </div>    
+                </li>
+
+                <?php endwhile; wp_reset_postdata(); ?>    
+        </ul>
+
+        <?php
+
+		// echo $args['after_widget'];
 	}
 
 	/**
@@ -79,10 +117,10 @@ class Foo_Widget extends WP_Widget {
 		return $instance;
 	}
 
-} // class Foo_Widget
+} // class malillagym_clases_widget
 
-// register Foo_Widget widget
-function register_foo_widget() {
-    register_widget( 'Foo_Widget' );
+// Registra el widget
+function malillagym_registrar_widget() {
+    register_widget( 'malillagym_clases_widget' );
 }
-add_action( 'widgets_init', 'register_foo_widget' );
+add_action( 'widgets_init', 'malillagym_registrar_widget' );

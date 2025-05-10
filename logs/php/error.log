@@ -65,3 +65,8 @@ Stack trace:
   thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 103
 [08-May-2025 21:15:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\sidebar.php on line 22
 [08-May-2025 21:16:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting "elseif" or "else" or "endif" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\sidebar.php on line 22
+[10-May-2025 20:46:20 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 75
+[10-May-2025 20:55:10 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 75
+[10-May-2025 20:57:33 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 88
+[10-May-2025 20:58:57 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 83
+[10-May-2025 21:07:26 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 83
