@@ -1,21 +1,21 @@
-<?php 
+<?php
 /*
-Plugin Name: Malilla Gym - widgets
-Plugin URI:
-Description: Añade Widget personalizados al sitio MalillaGym
-Version: 1.0.0
-Author: Marco Navarrete
-Author URI: 
-Text Domain: malillagym
+    Plugin Name: Malilla Gym - widgets
+    Plugin URI:
+    Description: Añade Widget personalizados al sitio MalillaGym
+    Version: 1.0.0
+    Author: Marco Navarrete
+    Author URI: 
+    Text Domain: malillagym
 
 */
 
 if(!defined('ABSPATH')) die();
 
 /**
- * Adds malillagym_clases_widget widget.
+ * Adds malillagym_Clases_Widget widget.
  */
-class malillagym_clases_widget extends WP_Widget {
+class malillagym_Clases_Widget extends WP_Widget {
 
 	/**
 	 * Register widget with WordPress.
@@ -23,8 +23,8 @@ class malillagym_clases_widget extends WP_Widget {
 	function __construct() {
 		parent::__construct(
 			'foo_widget', // Base ID
-			esc_html__( 'malillagyn Clases', 'text_domain' ), // Name
-			array( 'description' => esc_html__( 'Agrega las Clases como widget', 'text_domain' ), ) // Args
+			esc_html__( 'Malillagym Clases', 'text_domain' ), // Name
+			array( 'description' => esc_html__( 'Agrega las Clases como Widget', 'text_domain' ), ) // Args
 		);
 	}
 
@@ -41,45 +41,46 @@ class malillagym_clases_widget extends WP_Widget {
 		if ( ! empty( $instance['title'] ) ) {
 			echo $args['before_title'] . apply_filters( 'widget_title', $instance['title'] ) . $args['after_title'];
 		}
-		
+       
+        $cantidad = $instance['cantidad'];
+        if($cantidad == ''){
+            $cantidad = 3;
+        }
         ?>
-
         <ul>
-            <?php
+            <?php 
                 $args = array(
-                    'post_type' => 'malillagym_clases',
-                    'posts_per_page' => 3,
-                    'orderby' => 'date',
-                    'order' => 'DESC'
+                    'post_type' => 'malillagym_clases', 
+                    'posts_per_page' => $cantidad
+                    
                 );
-            $clases = new WP_Query($args);
-            
+                $clases = new WP_Query($args);
                 while($clases->have_posts()): $clases->the_post();
-                 ?>
-                <li class="clse-sidebar">
-                    <div class="imagen">
-                        <?php the_post_thumbnail('thumbnail'); ?>
-                    </div>
+            ?>
 
-                    <div class="contenido-clase">
-                        <a href="<?php the_permalink(); ?>">
-                            <h3><?php the_title(); ?></h3>
-                        </a>
-                        <?php 
-                            $hora_inicio = get_field('hora_inicio');
-                            $hora_fin = get_field('hora_fin');
-                       
-                        ?>
-                        <p><?php the_field('dias_de_clases'); ?> - <?php echo $hora_inicio . " a " . $hora_fin; ?></p>
+            <li class="clase-sidebar">
+                <div class="imagen">
+                    <?php the_post_thumbnail('thumbnail'); ?>
+                </div>
 
-                    </div>    
-                </li>
+                <div class="contenido-clase">
+                    <a href="<?php the_permalink(); ?>">
+                        <h3><?php the_title(); ?></h3>
+                    </a>
+                    <?php
+                        $hora_inicio = get_field('hora_inicio');
+                        $hora_fin = get_field('hora_fin');
+                    ?>
+                    <p><?php the_field('dias_clase'); ?> - <?php echo $hora_inicio . " a " . $hora_fin; ?></p>
+                </div>
+            </li>
 
-                <?php endwhile; wp_reset_postdata(); ?>    
+            <?php endwhile; wp_reset_postdata(); ?>
+            
         </ul>
 
-        <?php
 
+        <?php 
 		// echo $args['after_widget'];
 	}
 
@@ -90,15 +91,23 @@ class malillagym_clases_widget extends WP_Widget {
 	 *
 	 * @param array $instance Previously saved values from database.
 	 */
-	public function form( $instance ) {
-		$title = ! empty( $instance['title'] ) ? $instance['title'] : esc_html__( 'New title', 'text_domain' );
-		?>
-		<p>
-		<label for="<?php echo esc_attr( $this->get_field_id( 'title' ) ); ?>"><?php esc_attr_e( 'Title:', 'text_domain' ); ?></label> 
-		<input class="widefat" id="<?php echo esc_attr( $this->get_field_id( 'title' ) ); ?>" name="<?php echo esc_attr( $this->get_field_name( 'title' ) ); ?>" type="text" value="<?php echo esc_attr( $title ); ?>">
-		</p>
-		<?php 
-	}
+    public function form( $instance ) {
+        $cantidad = ! empty( $instance['cantidad'] ) ? $instance['cantidad'] : esc_html__( '¿Cuántas Clases deseas mostrar?', 'malillagym' ); ?>
+    <p>
+        <label for="<?php echo esc_attr( $this->get_field_id( 'cantidad' ) ); ?>">
+            <?php esc_attr_e( '¿Cuántas Clases deseas mostrar?', 'malillagym' ); ?>
+        </label> 
+
+        <input 
+            class="widefat" 
+            id="<?php echo esc_attr( $this->get_field_id( 'cantidad' ) ); ?>" 
+            name="<?php echo esc_attr( $this->get_field_name( 'cantidad' ) ); ?>" 
+            type="number" 
+            value="<?php echo esc_attr( $cantidad ); ?>" >
+    </p>
+    <?php 
+}
+
 
 	/**
 	 * Sanitize widget form values as they are saved.
@@ -110,17 +119,15 @@ class malillagym_clases_widget extends WP_Widget {
 	 *
 	 * @return array Updated safe values to be saved.
 	 */
-	public function update( $new_instance, $old_instance ) {
-		$instance = array();
-		$instance['title'] = ( ! empty( $new_instance['title'] ) ) ? sanitize_text_field( $new_instance['title'] ) : '';
+    public function update( $new_instance, $old_instance ) {
+        $instance = array();
+        $instance['cantidad'] = ( ! empty( $new_instance['cantidad'] ) ) ? sanitize_text_field( $new_instance['cantidad'] ) : '';
+        return $instance;
+    }
 
-		return $instance;
-	}
+} 
 
-} // class malillagym_clases_widget
-
-// Registra el widget
 function malillagym_registrar_widget() {
-    register_widget( 'malillagym_clases_widget' );
+    register_widget( 'malillagym_Clases_Widget' );
 }
 add_action( 'widgets_init', 'malillagym_registrar_widget' );

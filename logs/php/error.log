@@ -70,3 +70,25 @@ Stack trace:
 [10-May-2025 20:57:33 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 88
 [10-May-2025 20:58:57 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 83
 [10-May-2025 21:07:26 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 83
+[12-May-2025 18:08:48 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 94
+[12-May-2025 18:10:49 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 94
+[12-May-2025 18:12:50 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 94
+[12-May-2025 18:14:51 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 94
+[12-May-2025 18:16:52 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 96
+[12-May-2025 18:18:53 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 99
+[12-May-2025 18:20:54 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 99
+[12-May-2025 18:22:55 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 99
+[12-May-2025 18:24:56 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 99
+[12-May-2025 18:26:57 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 99
+[12-May-2025 18:28:50 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 95
+[12-May-2025 18:28:57 UTC] PHP Parse error:  syntax error, unexpected token ":" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 95
+[12-May-2025 18:30:28 UTC] PHP Warning:  Undefined array key "cantidad" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 45
+[12-May-2025 18:30:28 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 18:30:28 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 18:55:23 UTC] PHP Warning:  Undefined array key "cantidad" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 45
+[12-May-2025 18:55:23 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 18:55:23 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 18:56:06 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 19:04:55 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 84
+[12-May-2025 19:05:15 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 85
+[12-May-2025 19:37:48 UTC] PHP Warning:  Undefined array key "after_widget" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\plugins\malillagym_widgets\malillagym_widgets.php on line 82
