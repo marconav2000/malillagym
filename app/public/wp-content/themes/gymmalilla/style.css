@@ -18,11 +18,10 @@ Tags: gym, gimnasion, fitness, artes marciales, deportes de contacto, mma, flexb
     /** Fuentes **/
     --fuentePrincipal : 'Staatliches', sans-serif; 
     --fuenteTexto : 'Open Sans', sans-serif;
-    --fuenteSecundaria : 'Raleway', sans-serif; */
+    --fuenteSecundaria : 'Raleway', sans-serif; 
     
 
-    /** Colores **/
-    --colorauxiliar: #FF5B00; /* Color de fondo */   
+    /** Colores **/  
     --colorPrimario: #FF5B00; /* Color de fondo */
     --colorGrisOscuro : #2F2E2E; /* Color de texto */
     --colorGrisClaro : #EBEBEB; /* Color de acento */
@@ -36,10 +35,6 @@ html {
     box-sizing: border-box;
     font-size: 62.5%; /* 1rem = 10px */
 }
-*, *:before, *:after {
-    box-sizing: inherit;
-}
-
 body {
     font-size: 16px; /* px fallback */
     font-size: 1.6rem; /* default font-size for document */
@@ -47,6 +42,9 @@ body {
     font-family: var(--fuenteSecundaria);
   }
 
+*, *:before, *:after {
+    box-sizing: inherit;
+}
 
 /* Estilos generales */
 
@@ -75,8 +73,7 @@ h4 {
 
 /** Globales **/
 a {
-    text-decoration: none;
-  
+    text-decoration: none; 
 }
 
 ul {
@@ -96,8 +93,12 @@ img {
 
 .contenedor {
     max-width: 1200px;
-    width: 90%;
+    width: 95%;
     margin: 0 auto;    
+}
+
+hr {
+    border: 1px solid var(--grisClaro);
 }
 
 .magen-desctacada {
@@ -112,9 +113,15 @@ img {
 .texto-primario {
     color: var(--colorPrimario);
 }
-
+.texto-blanco{
+    color: var(--blanco);
+}
 .seccion {
     padding: 5rem 0;
+}
+.contenedor-boton {
+    display: flex;
+    justify-content: flex-end;
 }
 
 
@@ -321,10 +328,9 @@ img {
 @media (min-width: 768px) {
     .pagina.con-sidebar {
         display: flex;
-        justify-content: space-between;
+        justify-content: space-between;   
     }
-
-    .con-sidebar .contenido-pagina {
+    .con-sidebar .contenido-principal {
         flex: 0 0 calc(65% - 2rem);
     }
     .con-sidebar .sidebar {
@@ -332,9 +338,13 @@ img {
     }
 }
 
+/** No sidebar **/
 .no-sidebar {
     display: flex;
     justify-content: center;
+}
+.no-sidebar .contenido-principal {
+    flex: 0 1 800px;
 }
 
 .no-sidebar .contenido-pagina {
@@ -442,4 +452,46 @@ background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0) 35%,rgba(
     .card .contenido p {
         color: var(--colorPrimario);
     }
+}
+
+/** Clases Sidebar Widget**/
+
+.clase-sidebar {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--colorGrisClaro);
+
+}
+
+.clase-sidebar:last-of-type {
+    border-bottom: none;
+}
+
+.clase-sidebar .imagen{
+    flex: 0 0 30%;
+}
+
+.clase-sidebar .imagen img {
+    display: block;
+    
+}
+  
+.clase-sidebar .contenido-clase {
+    flex: 0 0 calc(70% - 2rem);
+}
+
+.clase-sidebar .contenido-clase h3 {
+    margin: 0;
+    font-size: 2.6rem;   
+}
+
+.clase-sidebar .contenido-clase a {
+    color: var(--colorPrimario);
+}
+
+.clase-sidebar .contenido-clase p{
+    margin: 0;
+    font-weight: 700;
+    font-size: 1.4rem;
 }
