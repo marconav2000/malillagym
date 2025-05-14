@@ -1,0 +1,21 @@
+<?php 
+/*
+* Template Name: template para Galerias
+*/
+
+get_header(); ?>
+
+    <main class="contenedor pagina seccion">
+        <div class="contenido-principal">
+            <?php while( have_posts()): the_post();?>
+                <h1 class="text-center texto-principal"><?php the_title(); ?></h1>
+                
+                    <?php the_content(); ?>
+            <?php endwhile; ?>                
+        </div>
+    </main>    
+
+
+
+<!-- carga contenido de archivo footert.php -->
+<?php get_footer(); ?>
