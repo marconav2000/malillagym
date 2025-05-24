@@ -223,3 +223,6 @@ Stack trace:
 [22-May-2025 20:21:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
 [22-May-2025 20:22:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
 [22-May-2025 20:24:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
+[24-May-2025 02:01:56 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 656
+[24-May-2025 02:05:35 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 656
+[24-May-2025 02:06:44 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 656

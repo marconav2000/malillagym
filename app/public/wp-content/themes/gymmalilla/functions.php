@@ -19,8 +19,9 @@ function gymmalilla_setup() {
         'flex-height' => true,
         'flex-width'  => true,
     ));
+    
     // Soporte para el título del tema
-    add_theme_support('title-tag');
+    add_theme_support('title-tag');   
 
 
     // Soporte para el tamaño de imagengenes personalizado
