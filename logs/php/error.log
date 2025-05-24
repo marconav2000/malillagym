@@ -218,3 +218,8 @@ Stack trace:
 [16-May-2025 17:01:27 UTC] PHP Warning:  Undefined variable $full in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page-galerias.php on line 30
 [16-May-2025 17:01:27 UTC] PHP Warning:  Undefined variable $full in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page-galerias.php on line 30
 [20-May-2025 12:06:44 UTC] PHP Parse error:  syntax error, unexpected token "/" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\home.php on line 9
+[22-May-2025 20:13:37 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
+[22-May-2025 20:20:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
+[22-May-2025 20:21:21 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
+[22-May-2025 20:22:50 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
+[22-May-2025 20:24:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 12288 bytes) in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\functions.php on line 650
