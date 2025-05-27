@@ -336,3 +336,21 @@ Stack trace:
 #3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
 #4 {main}
   thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:06:50 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:06:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:07:10 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:07:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
