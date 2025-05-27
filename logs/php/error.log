@@ -354,3 +354,1102 @@ Stack trace:
 #3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
 #4 {main}
   thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:08:34 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:08:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:09:11 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:09:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:10:35 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:10:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:11:12 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:11:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:12:36 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:12:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:13:13 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:13:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:14:37 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:14:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:15:14 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:15:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:16:38 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:16:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:17:15 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:17:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:17:33 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:17:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:19:22 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:19:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:19:34 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:19:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:21:23 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:21:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:21:35 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:21:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:23:24 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:23:24 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:23:36 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:23:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:25:25 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:25:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:25:37 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:25:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:27:26 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:27:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:27:38 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:27:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:29:27 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:29:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:31:28 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:31:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:33:29 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:33:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:35:30 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:35:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:37:31 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:37:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:39:32 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:39:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:41:33 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:41:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:43:34 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:43:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:45:35 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:45:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:47:36 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:47:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:49:37 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:49:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:51:38 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:51:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:53:39 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:53:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:55:40 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:55:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:57:41 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:57:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:59:42 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 14:59:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:01:43 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:01:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:03:44 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:03:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:05:45 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:05:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:07:46 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:07:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:09:47 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:09:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:11:48 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:11:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:13:49 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:13:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:15:50 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:15:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:17:51 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:17:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:19:52 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:19:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:21:53 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:21:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:23:54 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:23:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:25:55 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:25:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:27:56 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:27:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:29:57 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:29:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:31:58 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:31:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:33:59 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:33:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:36:00 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:36:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:36:38 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:36:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:37:45 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:37:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:37:54 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:37:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:39:09 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:39:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:39:55 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:39:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:41:10 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:41:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:41:56 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:41:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:43:11 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:43:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:43:57 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:43:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:45:12 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:45:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:45:58 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:45:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:46:06 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:46:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:47:13 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:47:13 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:47:59 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:47:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:48:11 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:48:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:49:17 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:49:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:50:00 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:50:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:50:36 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:50:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:51:30 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:51:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:52:07 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:52:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:52:30 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:52:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:54:08 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:54:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:54:30 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:54:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:55:36 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:55:36 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:56:03 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:56:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:56:30 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:56:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:00 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:04 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:54 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 15:58:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:00:00 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:00:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:00:05 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:00:05 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:02:01 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:02:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:02:06 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:02:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:04:02 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:04:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:04:07 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:04:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:06:03 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:06:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:06:08 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:06:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:08:04 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:08:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:08:09 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:08:09 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:10:16 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:10:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:12:17 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:12:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:14:18 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:16:19 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:16:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:18:20 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:18:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:20:21 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:20:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:22:22 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:22:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:24:23 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:24:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:25:10 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:25:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:26:17 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:26:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:26:18 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:26:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:27:12 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:27:12 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:27:25 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:27:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:29:19 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:29:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:29:20 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:29:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:30:51 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:30:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:31:14 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:31:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:31:46 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:31:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:33:21 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:33:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:33:47 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:33:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:35:22 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:35:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:35:48 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:35:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:36:54 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:36:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:17 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:17 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:34 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin-ajax.php(22): require_once('C:\\Users\\mnavar...')
+#4 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:34 UTC] PHP Warning:  require(C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php): Failed to open stream: No such file or directory in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:37:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\mnavarrete\Local Sites\gym\app\public/wp-content/themes/gymmalilla/inc/shortcodes.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php:6
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-settings.php(695): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-config.php(103): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-load.php(50): require_once('C:\\Users\\mnavar...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\admin.php(35): require_once('C:\\Users\\mnavar...')
+#4 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-admin\post.php(12): require_once('C:\\Users\\mnavar...')
+#5 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\functions.php on line 6
+[27-May-2025 16:46:00 UTC] PHP Fatal error:  Uncaught TypeError: Cannot access offset of type string on string in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\inc\shortcodes.php:8
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\shortcodes.php(434): malillagym_ubicacion_shortcode(Array, '', 'malillagym_ubic...')
+#1 [internal function]: do_shortcode_tag(Array)
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\shortcodes.php(273): preg_replace_callback('/\\[(\\[?)(contac...', 'do_shortcode_ta...', '[malillagym_ubi...')
+#3 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\class-wp-hook.php(324): do_shortcode('[malillagym_ubi...')
+#4 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters('[malillagym_ubi...', Array)
+#5 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\post-template.php(256): apply_filters('the_content', '[malillagym_ubi...')
+#6 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\template-parts\paginas.php(37): the_content()
+#7 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\template.php(812): require('C:\\Users\\mnavar...')
+#8 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\template.php(745): load_template('C:\\Users\\mnavar...', false, Array)
+#9 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#10 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page.php(8): get_template_part('template-parts/...')
+#11 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\mnavar...')
+#12 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-blog-header.php(19): require_once('C:\\Users\\mnavar...')
+#13 C:\Users\mnavarrete\Local Sites\gym\app\public\index.php(17): require('C:\\Users\\mnavar...')
+#14 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\inc\shortcodes.php on line 8
