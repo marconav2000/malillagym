@@ -3,15 +3,14 @@
 /** Consultas reutilizables **/
 
 require get_template_directory() . '/inc/queries.php';
-
-
-
-
+require get_template_directory() . '/inc/shortcodes.php';
 
 //Se ejecuta cuando el Tema se habilita
 function gymmalilla_setup() {
+
     // Habilita imagen destacada
     add_theme_support('post-thumbnails');
+
     // Soporte para el logo del tema
     add_theme_support('custom-logo', array(
         'height'      => 100,
@@ -20,7 +19,7 @@ function gymmalilla_setup() {
         'flex-width'  => true,
     ));
     
-    // Soporte para el título del tema
+    // Soporte para el título SEO
     add_theme_support('title-tag');   
 
 
@@ -34,9 +33,6 @@ function gymmalilla_setup() {
 }
 
 add_action('after_setup_theme', 'gymmalilla_setup');
-
-
-
 
 //Menu de navegacion
 // Se registran los menus de navegacion del tema, si quieres agregar mas menus
@@ -68,9 +64,10 @@ function gymmalilla_scripts_styles() {
     if (is_page('galeria')):
        wp_enqueue_style('lightboxCSS', get_template_directory_uri() . '/css/lightbox.min.css' , array(), '2.11.5');
     endif;
-  
-
-
+    //hoja de estilo plugin leaflet
+    if(is_page('contacto')):
+        wp_enqueue_style('leaftletCSS', 'https://unpkg.com/leaflet@1.5.1/dist/leaflet.css', array(), '1.5.1');
+    endif;
 
     // Hoja de esilo principal
     wp_enqueue_style('style', get_stylesheet_uri(), array('normalize', 'googleFont'), '1.0.0');
@@ -80,6 +77,10 @@ function gymmalilla_scripts_styles() {
     // Hoja de estilo script del plugin lightbox
     if (is_page('galeria')):
         wp_enqueue_script('lightboxJS', get_template_directory_uri() . '/js/lightbox.min.js', array('jquery'), '2.11.5', true);
+    endif;
+
+     if(is_page('contacto')):
+        wp_enqueue_script('leafletJS', 'https://unpkg.com/leaflet@1.5.1/dist/leaflet.js', array(), '1.5.1', true);
     endif;
 
     // Hoja de estilo script del plugin slicknav
