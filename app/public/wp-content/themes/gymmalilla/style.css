@@ -222,15 +222,24 @@ hr {
     border-bottom: 3px solid var(--colorPrimario);   
 }
 
+
+
+/** Reescribir Estilos menu Movil **/
+
+body.home .slicknav_menu {
+    background-color: transparent;
+}
+
+
+
 .slicknav_menu {
     background-color: var(--colorGrisOscuro); 
     display: flex;
     align-items: center;
-    flex-direction: column;
-   
+    flex-direction: column;   
 }
 
-/** Reescribir Estilos menu Movil **/
+
 @media (min-width: 768px) {
     .slicknav_menu {
         display: none;

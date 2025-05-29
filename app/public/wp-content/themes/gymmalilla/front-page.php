@@ -1,1 +1,3 @@
-<h1>Hola desde Front</h1>
+<?php get_header('front'); ?>
+
+<?php get_footer(); ?>
