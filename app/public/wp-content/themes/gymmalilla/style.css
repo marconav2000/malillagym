@@ -126,6 +126,16 @@ hr {
 
 
 /** Header **/
+body.home .site-header {
+    padding-top: 2rem;
+    height: 100vh;
+    min-height: 70rem;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+
 .site-header {
     background-color: var(--colorGrisOscuro); 
     padding: 2rem 0;  
@@ -143,7 +153,10 @@ hr {
     display: flex;
     justify-content: center;
 }
-
+.tagline {
+    Color: var(--colorBlanco);
+    padding-top:6rem;
+}
 /** Menu Principal **/
 .menu-principal {
     display: none;
