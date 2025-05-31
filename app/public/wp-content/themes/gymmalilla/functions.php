@@ -135,7 +135,7 @@ function gymmalilla_hero_image() {
 
     $imagen_destacada_css = "
         body.home .site-header {
-            background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url($imagen);
+            background-image: linear-gradient(rgba(0, 0, 0, 0.70), rgba(0, 0, 0, 0.70)), url($imagen);
              
         }
     ";
