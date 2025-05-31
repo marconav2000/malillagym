@@ -1453,3 +1453,7 @@ Stack trace:
 #13 C:\Users\mnavarrete\Local Sites\gym\app\public\index.php(17): require('C:\\Users\\mnavar...')
 #14 {main}
   thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\inc\shortcodes.php on line 8
+[31-May-2025 17:58:43 UTC] PHP Warning:  Undefined array key "imagen" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 13
+[31-May-2025 17:58:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 13
+[31-May-2025 17:58:43 UTC] PHP Warning:  Undefined array key "titulo" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 15
+[31-May-2025 17:59:07 UTC] PHP Warning:  Undefined array key "titulo" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 15
