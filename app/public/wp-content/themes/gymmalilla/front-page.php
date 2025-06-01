@@ -50,4 +50,21 @@
 
 </div>
 
+<section class="clases">
+    <div class="contenedor seccion">
+        <h2 class="texto-primario text-center">Nuestras Clases</h2>
+        <p class="text-center"><?php the_field('contenido_clases'); ?></p>
+
+        <?php gymmalilla_lista_clases(4); ?>
+
+        <div class="contenedor-boton">
+            <!-- insetar aqui link para redirección a Clases -->
+            <a href="<?php echo esc_url( get_permalink() ) ; ?>"  
+                class="boton boton-primario">
+                Ver Todas las Clases
+            </a>
+        </div>
+    </div>
+</section>
+
 <?php get_footer(); ?>

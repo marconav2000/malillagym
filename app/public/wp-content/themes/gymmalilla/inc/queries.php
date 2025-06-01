@@ -1,6 +1,6 @@
 <?php
 
-function gymmalilla_lista_clases() { ?>
+function gymmalilla_lista_clases($cantidad = -1) { ?>
 
     <!-- listas de clases -->
     <ul class="lista-clases">
@@ -8,7 +8,7 @@ function gymmalilla_lista_clases() { ?>
             // Consulta personalizada para obtener las clases
             $args = array(
                 'post_type' => 'malillagym_clases',
-                'posts_per_page' => 10, //cuando ponemos -1 se trae todos los post
+                'posts_per_page' => $cantidad, //cuando ponemos -1 se trae todos los post
                 'orderby' => 'title',
                 'order' => 'ASC'
             );

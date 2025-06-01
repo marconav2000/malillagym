@@ -1457,3 +1457,16 @@ Stack trace:
 [31-May-2025 17:58:43 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 13
 [31-May-2025 17:58:43 UTC] PHP Warning:  Undefined array key "titulo" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 15
 [31-May-2025 17:59:07 UTC] PHP Warning:  Undefined array key "titulo" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 15
+[01-Jun-2025 00:31:46 UTC] PHP Fatal error:  Uncaught Error: Value of type null is not callable in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page-nuestras-clases.php:13
+Stack trace:
+#0 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\mnavarrete\Local Sites\gym\app\public\wp-blog-header.php(19): require_once('C:\\Users\\mnavar...')
+#2 C:\Users\mnavarrete\Local Sites\gym\app\public\index.php(17): require('C:\\Users\\mnavar...')
+#3 {main}
+  thrown in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\page-nuestras-clases.php on line 13
+[01-Jun-2025 01:41:36 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
+[01-Jun-2025 01:42:07 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
+[01-Jun-2025 01:42:13 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
+[01-Jun-2025 01:42:50 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
+[01-Jun-2025 01:43:18 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
+[01-Jun-2025 01:44:06 UTC] PHP Parse error:  syntax error, unexpected token ":", expecting ")" in C:\Users\mnavarrete\Local Sites\gym\app\public\wp-content\themes\gymmalilla\front-page.php on line 61
