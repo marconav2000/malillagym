@@ -67,4 +67,40 @@
     </div>
 </section>
 
+<section class="Instructores">
+    <div class="contenedor seccion">
+        <h2 class="text-center texto-primario">Nuestros Instructores</h2>
+        <p class="text-center">Instructores profesionales que te ayudaran a logar tus objetivos</p>
+
+        <ul class="listado-instructores">
+            <?php
+                $args = array(
+                    'post_type' => 'instructores',
+                    'posts_per_page' => 30,
+                );
+                $instructores = new WP_Query($args);
+                while ($instructores->have_posts()) : $instructores->the_post();
+                    // $imagen = wp_get_attachment_image_src(get_post_thumbnail_id(), 'mediana') [0];
+            ?>
+            <li class="instructor">
+                <?php the_post_thumbnail('mediana'); ?>
+                <div class="contenido text-center">
+                    <h3><?php the_title(); ?></h3>
+                    <?php the_content(); ?>
+                    <div class="especielidad">
+                        <?php 
+                            $esp = get_field('especialidad');
+                            foreach ($esp as $e): ?>
+                                <span class="etiqueta"><?php echo esc_html($e); ?></span>
+                            
+                        <?php endforeach; ?>
+                    </div>
+                </div>
+            </li>
+            <?php endwhile; wp_reset_postdata(); ?>
+
+        </ul>
+    </div>
+</section>
+
 <?php get_footer(); ?>
