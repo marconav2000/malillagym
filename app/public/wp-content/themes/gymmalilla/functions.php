@@ -69,6 +69,12 @@ function gymmalilla_scripts_styles() {
         wp_enqueue_style('leaftletCSS', 'https://unpkg.com/leaflet@1.5.1/dist/leaflet.css', array(), '1.5.1');
     endif;
 
+    // hoja de estilo pligin BxSlider
+    if(is_page('Inicio')):
+        wp_enqueue_style('bxsliderCSS', 'https://cdn.jsdelivr.net/npm/bxslider@4.2.17/dist/jquery.bxslider.min.css', array(), '4.2.17');
+    endif;
+
+
     // Hoja de esilo principal
     wp_enqueue_style('style', get_stylesheet_uri(), array('normalize', 'googleFont'), '1.0.0');
 
@@ -79,9 +85,16 @@ function gymmalilla_scripts_styles() {
         wp_enqueue_script('lightboxJS', get_template_directory_uri() . '/js/lightbox.min.js', array('jquery'), '2.11.5', true);
     endif;
 
+    // Hoja de estilo script del plugin Leaflet
      if(is_page('contacto')):
         wp_enqueue_script('leafletJS', 'https://unpkg.com/leaflet@1.5.1/dist/leaflet.js', array(), '1.5.1', true);
     endif;
+
+    // Hoja de estilo script del plugin BxSlider
+    if(is_page('Inicio')):
+        wp_enqueue_script('bxsliderJS', 'https://cdn.jsdelivr.net/npm/bxslider@4.2.17/dist/jquery.bxslider.min.js', array('jquery'), '4.2.17', true);
+    endif;
+
 
     // Hoja de estilo script del plugin slicknav
     wp_enqueue_script('slicknavJS', get_template_directory_uri() . '/js/jquery.slicknav.min.js', array('jquery'), '1.0.10', true);

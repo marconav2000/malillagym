@@ -4,6 +4,15 @@ jQuery(document).ready( $ =>  {
         appendTo: '.site-header',    
     });
 
+    // Agregar Slider
+    $(".listado-testimoniales").bxSlider( { 
+        auto: true, 
+        mode: 'fade',  
+        pager: true, 
+        controls: false, 
+        speed: 1000, 
+        pause: 5000 } );
+
 
 
   // Mapa de Leaflet

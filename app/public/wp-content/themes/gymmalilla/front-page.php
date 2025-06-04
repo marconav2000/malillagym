@@ -104,18 +104,18 @@
 </section>
 
 <section class="testimoniales">
-    <h2 class="contenedor texto-blanco">Testimoniales</h2>
+    <h2 class="text-center texto-blanco">Testimoniales</h2>
     <div class="contenedor-testimoniales">
         <ul class="listado-testimoniales">
             <?php
                 $args = array(
                     'post_type' => 'testimoniales',
-                    'posts_per_page' => 10,
+                    'posts_per_page' => 10
                 );
                 $testimoniales = new WP_Query($args);
-                while ($testimoniales->have_posts()) : $testimoniales->the_post();
+                while ($testimoniales->have_posts()): $testimoniales->the_post();
             ?>
-            <li class="testimonial">
+            <li class="testimonial text-center">
                 <blockquote>
                     <?php the_content(); ?>
                 </blockquote>
