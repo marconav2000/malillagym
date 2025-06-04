@@ -134,6 +134,30 @@
     </div>
 </section>
 
+<section class="blog contenedor seccion">
+    <h2 class="text-center texto-primario">Nuestro Blog</h2>
+    <p class="text-center">Consejos, noticias y mucho más</p>
+    <ul class="listado-blog">
+        <?php 
+            $args = array(
+                'post_type' => 'post',
+                'posts_per_page' => 4
+            );
+            $blog = new WP_Query($args);
+            while ($blog->have_posts()): $blog->the_post();
+        
+                get_template_part('template-parts/loop', 'blog');
+        
+            endwhile; wp_reset_postdata();
+        
+        ?>
+    </ul>
+        
+
+    
+
+</section>
+
 
 
 <?php get_footer(); ?>
