@@ -192,36 +192,40 @@ body.home .site-header {
 @media (min-width: 768px) {
     .barra-navegacion {
         display: flex;
-        justify-content: space-between;
-             
+        justify-content: space-between;     
     }
+
+    
 }
 
 /** Barra Fija **/
 @media  (min-width: 768px) {
     body.ft-activo{
          margin-top: 5rem;
-
     }
-      
 
+
+    /* .barra-navegacion {
+    justify-content: space-evenly;
+    } */
+      
     .fixed-top {
         position: fixed;
+        justify-content: space-evenly;
         width: 100%;
         top: 0;
         left: 0;
         background-color: var(--colorGrisOscuro);
         padding: 1rem 5rem;
-       height: 10rem;
-       z-index: 10000;
-       transition: all 0.3s ease-in-out;
+        height: 10rem;
+        z-index: 10000;
+        transition: all 0.3s ease-in-out; 
     }
     .fixed-top img {
         width: 15rem;
-    }
+    }   
+} 
 
-    
-}
 
 .logo {
     display: flex;

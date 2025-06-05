@@ -59,9 +59,9 @@
 
         <div class="contenedor-boton">
             <!-- insetar aqui link para redirección a Clases -->
-            <a href="<?php echo esc_url( get_permalink() ) ; ?>"  
-                class="boton boton-primario">
-                Ver Todas las Clases
+             
+            <a href="<?php echo esc_url( get_permalink( get_page_by_title('Nuestras Clases') ) ); ?>" class="boton boton-primario">
+                Ver todas las clases
             </a>
         </div>
     </div>
