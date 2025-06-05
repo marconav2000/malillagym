@@ -63,9 +63,9 @@ window.onscroll =  () => {
 
     if(scroll > 300) {
         headerNav.classList.add('fixed-top');
-         documentBody.classList.add('ft-active');
+        documentBody.classList.add('ft-activo');
     } else {
-         headerNav.classList.remove('fixed-top');
-          documentBody.classList.remove('ft-activo');
+        headerNav.classList.remove('fixed-top');
+        documentBody.classList.remove('ft-activo');
     }
 }

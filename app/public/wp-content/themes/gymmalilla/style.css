@@ -165,7 +165,9 @@ body.home .site-header {
 
 @media (min-width: 768px) {
     body.home .site-header {
-        height: 100vh;       
+        height: 100vh; 
+        max-height: 900px;
+
     }
     
     .header-grid {
@@ -197,6 +199,12 @@ body.home .site-header {
 
 /** Barra Fija **/
 @media  (min-width: 768px) {
+    body.ft-activo{
+         margin-top: 5rem;
+
+    }
+      
+
     .fixed-top {
         position: fixed;
         width: 100%;
@@ -209,8 +217,9 @@ body.home .site-header {
        transition: all 0.3s ease-in-out;
     }
     .fixed-top img {
-        width: 12rem;
+        width: 15rem;
     }
+
     
 }
 
